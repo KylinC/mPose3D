@@ -22,11 +22,11 @@ The [mPose3D](https://github.com/KylinC/mPose3D) aims at human pose resonstructi
 
 > Ground Truth - Feature - Prediction
 
-![image](https://github.com/KylinC/mPose3D/blob/main/docs/cut2.gif)   
+<img src="https://github.com/KylinC/mPose3D/blob/main/docs/cut2.gif" height="300" />
 
 > Video - Kinect Ground Truth - Prediction
 
-![image](https://github.com/KylinC/mPose3D/blob/main/docs/cut.gif)   
+<img src="https://github.com/KylinC/mPose3D/blob/main/docs/cut.gif" height="300" />
 
 
 
@@ -34,6 +34,6 @@ The [mPose3D](https://github.com/KylinC/mPose3D) aims at human pose resonstructi
 
 | **Item**     | **Details**                                                  |
 | ------------ | ------------------------------------------------------------ |
-| Device       | [IWR6843ISK Antenna Module](http://www.ti.com/tool/IWR6843ISK) **OR** [IWR6843ISK_ODS Antenna Module](http://www.ti.com/tool/IWR6843ISK-ODS) **OR** [IWR6843AOPEVM](http://www.ti.com/tool/IWR6843AOPEVM). |
+| Device       | [IWR1443BOOST](http://www.ti.com/tool/IWR6843ISK) **OR** [ADC1000EVM](http://www.ti.com/tool/IWR6843ISK-ODS) |
 | Power Supply | 5V, 3A with 2.1-mm barrel jack (center positive). The power supply can be wall adapter style or a battery pack with a USB to barrel jack cable. |
 | Python 3.6   | All package included in requirements.txt                     |
