@@ -12,9 +12,9 @@ The [mPose3D](https://github.com/KylinC/mPose3D) aims at human pose resonstructi
 
 ### Experiment Environment
 
-> Detection range covers the rectangle area of **5m x 3m**.
+> Detection range covers the rectangle area of **5m x 8m**.
 
-![IMG_9354](http://kylinhub.oss-cn-shanghai.aliyuncs.com/2021-05-19-121039.jpg)
+<img src="http://kylinhub.oss-cn-shanghai.aliyuncs.com/2021-06-23-setup-1.jpg" height="300" />
 
 
 
@@ -22,13 +22,11 @@ The [mPose3D](https://github.com/KylinC/mPose3D) aims at human pose resonstructi
 
 > Ground Truth - Feature - Prediction
 
-<img src="https://github.com/KylinC/mPose3D/blob/main/docs/cut2.gif" height="300" />
+<img src="https://github.com/KylinC/mPose3D/blob/main/docs/all_pre.gif" height="300" />
 
 > Video - Kinect Ground Truth - Prediction
 
-<img src="https://github.com/KylinC/mPose3D/blob/main/docs/cut.gif" height="300" />
-
-
+<img src="https://github.com/KylinC/mPose3D/blob/main/docs/single.gif" height="300" />
 
 ### Requirements
 
